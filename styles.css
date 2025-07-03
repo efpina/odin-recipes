@@ -7,3 +7,14 @@
 a {
     color: #FFB95A;
 }
+
+.recipe-title {
+    font-style: italic;
+    text-align: center;
+}
+
+.dish-image {
+    width: 300px;
+    display: block;
+    margin: auto;
+}
